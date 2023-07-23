@@ -15,7 +15,7 @@
 * Legend: 👶 easy ‍⭐️ medium 🚀 expert
 * Do you know how to answer questions without answers? Please create a PR
 
-
+Very useful link [IT Shared](https://www.itshared.org/2015/10/data-science-interview-questions.html#background-questions)
 ## Table of contents
 
 * [Supervised machine learning](#supervised-machinelearning)
